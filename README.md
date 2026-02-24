@@ -36,5 +36,5 @@ Reduced ramp variability
 Improved KPI predictability
 Lower compliance exposure risk
 
-## Video Walkthrough (5 Minutes)
+## Video Training Example (5 Minutes)
 [![Watch Architecture Walkthrough](https://img.youtube.com/vi/_TrXXDFrJU4/0.jpg)](https://youtu.be/_TrXXDFrJU4)
