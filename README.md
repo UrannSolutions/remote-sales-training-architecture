@@ -38,3 +38,46 @@ Lower compliance exposure risk
 
 ## Video Training Example (9 Minutes)
 [![Watch Architecture Walkthrough](https://img.youtube.com/vi/_TrXXDFrJU4/0.jpg)](https://youtu.be/_TrXXDFrJU4)
+
+## Long-Form Training Implementation Example (Script Instruction)
+
+### Context
+
+This session demonstrates live instruction of the structured inbound sales script designed within the training architecture outlined above. The objective of this session was not memorization, but installing an understanding of conversation sequencing, trust formation, objection isolation, and controlled transitions into application.
+
+The training reflects how behavioral standards are translated into teachable, repeatable execution frameworks inside a distributed remote environment.
+
+---
+
+### Instructional Focus Areas
+
+- Opener confidence and tonal authority
+- Immediate rapport establishment
+- Guided fact-finding before pricing
+- Emotional positioning prior to quote delivery
+- Controlled transition into application
+- Objection isolation and recovery sequencing
+- Trust-building around sensitive data collection
+- One-call-close discipline in inbound channels
+
+The session emphasizes why each section of the script exists, what behavioral mistake it corrects, and how deviation impacts conversion predictability.
+
+---
+
+### Operational Purpose
+
+This training example illustrates how:
+
+- Script design aligns with KPI expectations
+- Coaching language remains consistent across managers
+- Execution standards are installed without micromanagement
+- Behavioral correction occurs through clarity rather than pressure
+- Revenue discipline is reinforced through structured conversation flow
+
+Rather than treating scripting as rigid compliance, the architecture treats it as a conversion control framework.
+
+---
+
+### Full Training Session (Long-Form Example)
+
+[![Watch Full Training Session](https://img.youtube.com/vi/KI5f-PEEEOw/0.jpg)](https://youtu.be/KI5f-PEEEOw)
