@@ -1,81 +1,77 @@
-# Scalable Remote Sales Training Architecture (500+ Agents)
-## Executive Overview
+# Remote Sales Training Architecture — 500+ Operators
 
-Designed and deployed a 60 asset centralized self-training and enablement system for a fully remote, regulated sales organization supporting 500+ distributed operators. The objective was to eliminate execution variability, reduce ramp time, and install durable performance standards independent of informal knowledge transfer.
+## Overview
+Built and deployed a 60-asset self-training and enablement system for a fully remote, regulated sales org. The goal was simple — stop relying on top performers to carry institutional knowledge and build something the whole team could actually run on.
 
-## Operational Context
+## The Problem
 
-- Fully remote distributed workforce
-- High-autonomy sales environment
-- Regulatory and compliance constraints
-- Inconsistent execution across performance tiers
-- Knowledge concentrated among top performers
+- Fully remote, high-autonomy workforce
+- Execution varied wildly across performance tiers
+- Compliance exposure from inconsistent behavior
+- Knowledge lived in people's heads, not in the system
 
-## Architecture Design
+# How It Was Built
+Four pillars held the whole thing together:
 
-- The system was constructed around four pillars:
 - Structured onboarding progression
 - Modular skill development tracks
-- KPI-driven performance gating
+- KPI-gated performance thresholds
 - Compliance-integrated QA feedback loops
-- Training included 60+ recorded, written, and self-guided modules mapped directly to productivity and quality benchmarks.
 
-## Execution Framework
+## 60+ recorded, written, and self-guided modules — all mapped directly to productivity and quality benchmarks. Nobody touched a live dial until they hit the threshold.
 
-- Day 1 → Production readiness progression map
+# Daily Execution Standards
+
+- Day 1 → production readiness progression map
 - Performance thresholds required before live dialing
 - Daily operating cadence with KPI visibility
 - Manager accountability standards
-- Retraining triggers based on KPI deviation
+- Retraining triggers tied to KPI deviation
 
-## Measurable Outcomes
 
-Standardized execution across 500+ operators
-Reduced ramp variability
-Improved KPI predictability
-Lower compliance exposure risk
+# What It Produced
 
-## Long-Form Training Example (Daily Retraining & Performance Correction System)
+- Standardized execution across 500+ operators
+- Reduced ramp variability
+- Improved KPI predictability
+- Lower compliance exposure risk
 
-### Context
+## Daily Growth & Retraining Framework
 
-This session demonstrates live instruction of the Daily Growth & Retraining Framework implemented within the broader sales performance architecture. The purpose of this system is to prevent uncontrolled lead attrition, accelerate skill correction, and create measurable accountability in a high-autonomy remote environment.
-
-Rather than relying on generic motivation or manager intervention, this framework installs defined pause-and-review triggers tied directly to behavioral breakdown patterns.
-
----
-
-### Retraining Triggers Covered
-
-- 7+ calls under 2 minutes → opener / rapport failure  
-- Engaged calls without quoting → transition control breakdown  
-- Multiple quotes without application → value or trust gap  
-- Application starts without close → objection handling deficiency  
-
-Each trigger requires:
-1. Immediate pause from live calls  
-2. Structured recording review  
-3. Targeted self-assessment scoring  
-4. Focused rehearsal and tone correction  
-5. Controlled re-entry into production  
-
----
-## Long-Form Training Session (Daily Retraining Framework)
 
 [![Watch Daily Retraining Session](https://img.youtube.com/vi/c-OAstPBJCQ/0.jpg)](https://youtu.be/c-OAstPBJCQ)
 
+This is a live instruction session for the retraining system built inside the broader sales architecture. The whole idea was to stop relying on manager intervention or generic motivation and instead build something that corrects itself — defined triggers tied directly to where execution actually breaks down.
 
-### System Objectives
 
-- Protect inbound lead economics  
-- Standardize coaching language across managers  
-- Reduce execution drift in distributed teams  
-- Increase first-call-close discipline  
-- Reinforce personal accountability in 1099 environments  
+# Retraining Triggers
 
-This approach operationalizes the principle that mastery equals speed of correction — embedding continuous feedback loops directly into daily production rhythm.
+- 7+ calls under 2 minutes → opener / rapport failure
+- Engaged calls without quoting → transition breakdown
+- Multiple quotes without application → value or trust gap
+- Application starts without close → objection handling gap
+
+## When a Trigger Fires
+
+- Immediate pause from live calls
+- Pull and review the recording
+- Self-assessment scoring
+- Focused rehearsal and tone correction
+- Controlled re-entry into production
+
+No guesswork, no ego — just find what broke, fix it, get back in.
 
 ---
 
-## Short-Form Training Example (Carrier Cheat Sheet)
+## What It Was Built To Do
+
+- Stop burning inbound leads on avoidable execution mistakes
+- Give managers a shared coaching language so feedback isn't all over the place
+- Keep distributed teams from drifting into their own version of the process
+- Build first-call-close habits, not first-call-hope habits
+- Make accountability personal in a 1099 environment where nobody's watching
+
+The whole thing runs on one idea — mastery is just how fast you correct. So we built the correction loop directly into the daily production rhythm.
+
+## Short-Form Training Example — Carrier Cheat Sheet
 [![Watch Architecture Walkthrough](https://img.youtube.com/vi/_TrXXDFrJU4/0.jpg)](https://youtu.be/_TrXXDFrJU4)
