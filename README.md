@@ -1,5 +1,4 @@
-# remote-sales-training-architecture
-Scalable Remote Sales Training Architecture (500+ Agents)
+# Scalable Remote Sales Training Architecture (500+ Agents)
 ## Executive Overview
 
 Designed and deployed a 60 asset centralized self-training and enablement system for a fully remote, regulated sales organization supporting 500+ distributed operators. The objective was to eliminate execution variability, reduce ramp time, and install durable performance standards independent of informal knowledge transfer.
@@ -36,48 +35,47 @@ Reduced ramp variability
 Improved KPI predictability
 Lower compliance exposure risk
 
-## Video Training Example (9 Minutes)
-[![Watch Architecture Walkthrough](https://img.youtube.com/vi/_TrXXDFrJU4/0.jpg)](https://youtu.be/_TrXXDFrJU4)
-
-## Long-Form Training Implementation Example (Script Instruction)
+## Long-Form Training Example (Daily Retraining & Performance Correction System)
 
 ### Context
 
-This session demonstrates live instruction of the structured inbound sales script designed within the training architecture outlined above. The objective of this session was not memorization, but installing an understanding of conversation sequencing, trust formation, objection isolation, and controlled transitions into application.
+This session demonstrates live instruction of the Daily Growth & Retraining Framework implemented within the broader sales performance architecture. The purpose of this system is to prevent uncontrolled lead attrition, accelerate skill correction, and create measurable accountability in a high-autonomy remote environment.
 
-The training reflects how behavioral standards are translated into teachable, repeatable execution frameworks inside a distributed remote environment.
-
----
-
-### Instructional Focus Areas
-
-- Opener confidence and tonal authority
-- Immediate rapport establishment
-- Guided fact-finding before pricing
-- Emotional positioning prior to quote delivery
-- Controlled transition into application
-- Objection isolation and recovery sequencing
-- Trust-building around sensitive data collection
-- One-call-close discipline in inbound channels
-
-The session emphasizes why each section of the script exists, what behavioral mistake it corrects, and how deviation impacts conversion predictability.
+Rather than relying on generic motivation or manager intervention, this framework installs defined pause-and-review triggers tied directly to behavioral breakdown patterns.
 
 ---
 
-### Operational Purpose
+### Retraining Triggers Covered
 
-This training example illustrates how:
+- 7+ calls under 2 minutes → opener / rapport failure  
+- Engaged calls without quoting → transition control breakdown  
+- Multiple quotes without application → value or trust gap  
+- Application starts without close → objection handling deficiency  
 
-- Script design aligns with KPI expectations
-- Coaching language remains consistent across managers
-- Execution standards are installed without micromanagement
-- Behavioral correction occurs through clarity rather than pressure
-- Revenue discipline is reinforced through structured conversation flow
+Each trigger requires:
+1. Immediate pause from live calls  
+2. Structured recording review  
+3. Targeted self-assessment scoring  
+4. Focused rehearsal and tone correction  
+5. Controlled re-entry into production  
 
-Rather than treating scripting as rigid compliance, the architecture treats it as a conversion control framework.
+---
+## Long-Form Training Session (Daily Retraining Framework)
+
+[![Watch Daily Retraining Session](https://img.youtube.com/vi/c-OAstPBJCQ/0.jpg)](https://youtu.be/c-OAstPBJCQ)
+
+
+### System Objectives
+
+- Protect inbound lead economics  
+- Standardize coaching language across managers  
+- Reduce execution drift in distributed teams  
+- Increase first-call-close discipline  
+- Reinforce personal accountability in 1099 environments  
+
+This approach operationalizes the principle that mastery equals speed of correction — embedding continuous feedback loops directly into daily production rhythm.
 
 ---
 
-### Full Training Session (Long-Form Example)
-
-[![Watch Full Training Session](https://img.youtube.com/vi/KI5f-PEEEOw/0.jpg)](https://youtu.be/KI5f-PEEEOw)
+## Short-Form Training Example (Carrier Cheat Sheet)
+[![Watch Architecture Walkthrough](https://img.youtube.com/vi/_TrXXDFrJU4/0.jpg)](https://youtu.be/_TrXXDFrJU4)
