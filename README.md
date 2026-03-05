@@ -1,4 +1,4 @@
-# Remote Sales Training Architecture — 500+ Operators
+# Remote Sales Training Architecture — Several Hundred Operators
 
 ## Overview
 Built and deployed a 60-asset self-training and enablement system for a fully remote, regulated sales org. The goal was simple — stop relying on top performers to carry institutional knowledge and build something the whole team could actually run on.
